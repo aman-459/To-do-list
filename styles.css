@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div {
+    line-height: 30px;
+    padding: 20px;
+    background-color: aqua;
+}
+
+.del {
+    padding: 0px 10px;
+    color: blue;
+    border: 1px solid black;
+}
